@@ -4,13 +4,14 @@
 
 * [Home](README.md)
 
-* First Group
+* For Players:
 
-  * [Doc One](docone.md)
-  * [Doc Two](doctwo.md)
-  * [Doc Three](docthree.md)
+  * [Conceptual Overview](docone.md)
+  * [Tasks](doctwo.md)
+  * [References](docthree.md)
   
-* Second Group 
+* Technical information (Developers)
 
-  * [Doc Four](docfour.md)
-  * [Doc Five](docfive.md)
+  * [Conceptual Overview](docfour.md)
+  * [Tasks](docfive.md)
+  * [References](docsix.md)
