@@ -1,11 +1,12 @@
 <!-- _coverpage.md -->
 
-# BobaFinder 
+# Orbituary 
 
-> Software Documentation Rocks
+> A game about a cat, **IN SPACE**
 
-- Clear and concise
-- Well organized
-- Useful titles and opening text
+Game writing and design by Joshua Graham <br>
+Documentation by Scott McDaniel-Rogers
+
+<br><br><br>
 
 [Get Started](#home-page)
