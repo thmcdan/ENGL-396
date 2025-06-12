@@ -7,11 +7,11 @@
 * For Players:
 
   * [Conceptual Overview](docone.md)
-  * [Tasks](doctwo.md)
+  * [How to](doctwo.md)
   * [References](docthree.md)
   
 * Technical information (Developers)
 
   * [Conceptual Overview](docfour.md)
-  * [Tasks](docfive.md)
+  * [Developer Tasks](docfive.md)
   * [References](docsix.md)
